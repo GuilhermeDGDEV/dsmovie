@@ -1,0 +1,14 @@
+header {
+    background-color: var(--color-primary);
+    height: 60px;
+}
+
+.dsmovie-nav-content h1 {
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.dsmovie-contanct-link {
+    margin: 0 0 0 10px;
+    font-size: 12px;
+}
