@@ -7,7 +7,7 @@ function Navbar() {
       <nav className="container">
         <div className="d-flex justify-content-between text-light dsmovie-nav-content">
           <h1 className="m-0">DSMovie</h1>
-          <a href="https://github.com/GuilhermeDGDEV" className="d-flex align-items-center">
+          <a href="https://github.com/GuilhermeDGDEV" target="_blank" className="d-flex align-items-center">
             <div className="d-flex align-items-center">
               <GithubIcon />
               <p className="dsmovie-contanct-link">/GuilhermeDGDEV</p>
